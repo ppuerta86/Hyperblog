@@ -1,7 +1,11 @@
 body {
     text-align: left;
     font-family: 'Arial';
+<<<<<<< HEAD
     color:blue;
+=======
+    color:red;
+>>>>>>> cabecera
     font-size: 16px;
 }
 #cabecera {
